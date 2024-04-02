@@ -1,0 +1,9 @@
+Where land is deforested/degraded, natural recycling of water is disrupted. Rain falling in areas where forest vegetation has been removed or replaced with crops, much less water can be intercepted, as fewer leaves catch raindrops, allowing more rainwater to reach the ground. 
+
+Removing forest vegetation means litter and humus layers are reduced. Hence, it is more difficult for water to infiltrate. This is particularly an issue when rainfall intensities are high, with the convectional rainfall events that are common in these environments. This reduced infiltration means that more water will move over the land surface as overland flow, which reaches streams and rivers much more rapidly as opposed to water which travels through the soil via throughflow. Particulary when surfaces dont have much surface vegetation to slow down the flow. Consequently, the risk of flash flooding is increased. 
+
+If crops have replaced forest vegetation, water which infiltrates will be taken up by the roots and will enter the atmosphere as water vapour through evapotranspiration. However rates of evapotranspiration from crops are much lower than rates from forests. Not only are crops less dense than forest vegetation, but there are now fewer plants to transpire, the roots tend to be less expansive, so they are unable to access water deeper in the soil. Therefore instead of re-entering the atmosphere as water vapour, soil water will move towards the river as throughflow, further exacerbating the flood risk. 
+
+The reduction in water evaporated from leaves after being intercepted together with a reduction in transpiration, means that there is much less water vapour being returned to the atmosphere after a rainfall event. This leads to a reduction in humidity. As air masses move inland, they become increasingly arid as they pass over unvegetated areas.
+
+

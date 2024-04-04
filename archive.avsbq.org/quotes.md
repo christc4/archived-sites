@@ -15,7 +15,7 @@ Names intentionally redacted
 - The moment I started working at the bank, I immediately knew this. My friend put it best: We're not even the cogs in the machine. We're the grease. 
 - Who watches the watchmen?
 - &ldqou;Extremism&rdquo; is a meaningless term. It's whatever the current brokers of power determine it to be. 
-- By nature of being on the side of thruth, its easy to make everyone else look like the fools they are
+- By nature of being on the side of truth, its easy to make everyone else look like the fools they are
 
     First they came for the Xs, and I did not speak out-because I was not a X.
 

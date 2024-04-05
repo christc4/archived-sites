@@ -8,4 +8,6 @@
 - _He is the only survivor of the Russian sleep experiment_
 - _Because democracy basically means government by the people, of the people, for the people. But the people are retarded_
 
+- _The elevator business has its ups and downs_
+
 <img src=".pix/mom_text.webp" style="width: 200px; height: auto;">

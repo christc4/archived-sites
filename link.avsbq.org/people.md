@@ -4,9 +4,10 @@
 
     - [YouTube](https://www.youtube.com/@EoinReardon/videos)
 
-- [Luke Smith](https://lukesmith.xyz)
+- [Luke Smith](https://lukesmith.xyz) - Possibly dead?
 
-    Bald boomer rambling in woods, Orthodox Christian, possibly dead?
+    _&ldquo;We're in the closet today. No homo&rdquo;_
+    
 
     - [BitChute](https://www.bitchute.com/channel/KxfE8MXNPekx/)
     - [Odysee](https://odysee.com/@Luke:7)
@@ -23,9 +24,9 @@
 
     - [Odysee](https://odysee.com/@AlphaNerd:8)
 
-- [Jay Dyer](https://jaysanalysis.com)
+- [Jay Dyer](https://jaysanalysis.com) - _PhD in CIA (Culinary Institute of America)_
 
-    Holds PhD in CIA (Culinary Institute of America), Orthodox Christianity, geopolitics
+    _Jay Jay Jay - &ldquo;Your neurolinguistic programming isn't going to work on me&rdquo;<br>Legend has it, if you say Jay's name 5 times in front of a mirror he'll summon - ready to debate you
 
     - [BitChute](https://www.bitchute.com/channel/MjVqw8w3SDIq/)
     - [Odysee](https://odysee.com/@JayDyer:8)

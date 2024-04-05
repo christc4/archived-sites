@@ -1,7 +1,7 @@
     <div>
       <a href="http://avsbq.org"><i>avsbq.org</i></a> |
       <a href="http://archive.avsbq.org">archive</a> -
-      <a href="http://harmful.avsbq.org">harmful</a> -
+      <a href="http://mal.avsbq.org">mal</a> -
       <a href="http://language.avsbq.org">languages</a> -
       <a href="http://link.avsbq.org">links</a> -
       <a href="http://iconography.avsbq.org">liturgical arts</a> -

@@ -7,7 +7,12 @@
 # Notable mentions
 
 - [SOWM]
+    - <img src=".pix/sowm.webp">
+    - sowm is only 200 SLOC and is written in C
+    - No border colors, workstations/tags
+
 - [wio]
+
 - [rio]
 
 <!-- Insert rio screenshot with mothra website -->

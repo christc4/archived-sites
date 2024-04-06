@@ -25,3 +25,6 @@ The humble grandeur yet the solemnity
 We do not know if we are on Heaven or Earth
 
 - A time is coming when men will go mad, and when they see someone who is not mad, they will attack him, saying, &ldquo;You are mad; you are not like us&rdquo;
+
+
+- Tourist at monk's cell: <i>&ldquo;Where is your furniture?&rdquo;</i> Monk: <i>&ldquo;Where is yours?&rdquo;</i> Tourist: <i>&ldquo;Mine? I'm only a tourist here&rdquo;</i> Monk: <i>&ldquo;And so am I&rdquo;

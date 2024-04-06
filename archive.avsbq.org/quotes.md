@@ -10,8 +10,6 @@ Names intentionally redacted
 
 - The world gets wider and wider and even the view I saw yesterday looks different to me today
 
-- Tourist at monk's cell: <i>&ldquo;Where is your furniture?&rdquo;</i> Monk: <i>&ldquo;Where is yours?&rdquo;</i> Tourist: <i>&ldquo;Mine? I'm only a tourist here&rdquo;</i> Monk: <i>&ldquo;And so am I&rdquo;
-
 -  Necessity is the mother of all invention
 
 - Food is not evil, but gluttony is. Childbearing is not evil, but fornication is. Money is not evil, but avarice is. Glory is not evil, but vainglory is. Indeed, there is no evil in existing things, but only in their misuse

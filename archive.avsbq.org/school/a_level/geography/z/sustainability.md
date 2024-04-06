@@ -50,4 +50,40 @@ have said that current patterns of
 consumption in some parts of the world
 are no longer sustainable. 
 
-The term &apos;ecological footprint&apos; is also relevant here. An ecological footprint refers to a measurement of the area of land or mater required to provide a person (or society) with the energy, food and other resources they consume and render the waste they produce harmless. Using this assessment, it is possible to estimate how much of the Earth (or how many planet Earths) it would take to support humanity if everybody lived a given lifestyle (and consumption rate)
+The term &apos;ecological footprint&apos; is also relevant here. An ecological footprint refers to a measurement of the area of land or mater required to provide a person (or society) with the energy, food and other resources they consume and render the waste they produce harmless. Using this assessment, it is possible to estimate how much of the Earth (or how many planet Earths) it would take to support humanity if everybody lived a given lifestyle (and consumption rate).
+
+One pessimistic scenario produced in 1973 by the Limits to
+Growth scientists of the Club of Rome stated that human demand
+for resources would exceed nature's supply from the 1980s
+onwards, &apos;overshooting&apos; it by 20% by the end of that
+century. Were they correct? Some have developed this idea by
+suggesting that each year should have an &apos;Earth Overshoot
+Day&apos; - the day when the productive capacity of the planets
+has been used up for that calendar year. In 2000 it was
+1<sup>st</sup> November; in 2023 it is 27<sup>th</sup>July. One
+over-riding view of the link between sustainability and
+carrying capacity is that it perhaps seems pessimistic. 
+
+# Sustainability in urban areas
+
+Curiously, only one of SDGs has the word sustainable in its title: *Target 11: Sustainable cities and communities*. The UN states in its introduction to this goal: &ldquo;Balancing the immediate needs of today without compromising the needs of tomorrow is at the heart of being a sustainable city&rdquo;. This is a clear throwback to the original Bruntland definition in 1987.
+
+The World Economic Forum (WEF) uses three &apos;pillars&apos; to rank 100 global cities in terms of their sustainability. Thef are:
+
+- *The people pillar*: this is based on indicators of health (life expectancy and obesity), education (literacy and quality of universities) income equality, work life balance, dependency ration, crime, housing and living costs. They are said to capture the quality of life within a city.
+
+- *The planet pillar*: this ranks cities in terms of their energy consumption and renewable energy share, green space within cities, recycling and composting rates, greenhouse gas emissions, their risk of natural catastrophe, drinking water quality, sanitation quality and air pollution. They are said to capture &apos;green factors&apos; in a city.
+
+- *The profit pillar*: this examines performances of a city from a business, perspective, combining pressures of transport infrastructure (rail, air and traffic congestion), ease of doing business, tourism, GDP per capita, the city&apos;s importance in global economic networks, connectivity in terms of mobile and broadband access and employmentrates. They capture the city&apos;s &apos;economic health&apos;.
+
+Based on these indicators WEF identified the top ten sustainable cities in 2016. They were, in order of sustainability: Zurich, Singapore, Stockholm, Vienna, London, Frankfurt, Seoul, Hamburg, Prague and Munich. They have not been updated since.
+
+When considering the notion of sustainability, and referring to the Bruntland Report definition given earlier, perhaps we should ask three questions:
+
+(1) What are the ‘needs of the present’?
+
+(2) Is it possible to meet these needs today?
+
+(3) Will it still be possible to meet these needs in the future?
+
+The most likely answer to the final question is no. Countries, urban areas, and people will always consume non-renewable resources, pollute the environment and embody risk, despite our best efforts to avoid them. Perhaps once there is a recognition that we cannot, and will never, become wholly sustainable, attention can focus instead on ways to make our world more sustainable than it is at present – which is perhaps a more positive outcome to aim for?

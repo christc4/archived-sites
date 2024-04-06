@@ -23,7 +23,7 @@ From Old French _mal-_ from the Latin adverb male, from malus
 # Affix
 
 <details><summary><b>-mal</b></summary>
-Dismal, affix, abyssmal
+Dis*mal*, abyss*mal*
 </details>
 
 # Notable mals
@@ -42,5 +42,9 @@ Dismal, affix, abyssmal
 _If criticism destroys much, it creates much more_
 
 _If you think good design is expensive, you should look at the cost of bad design_
+
+_By virtue of doing good you are undercutting someone who is doing bad_
+
+_Imagine Henry Ford stopped making cars because the Horse and Buggy industry sent him a bunch of sob stories_
 
 <img src=".pix/chan.webp" style="width: 200px; height: auto;"></p>

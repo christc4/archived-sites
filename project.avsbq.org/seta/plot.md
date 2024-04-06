@@ -23,7 +23,15 @@ Seta, finds refuge in a primitive cave, to his surprise is occupied by runaway b
 
 A few years later, his slave master is on a monster hunting trip and one of the slaves who grew up jealous of seta (future rival) alerts his master to a sdinf cattle bell in the distance, without missing a beat, his master fires his rifle, which pings of the indestructable metal alerting the beastkind to the presence of the humans presence in their lands.
 
-Panic runs rampant in the cave, seta knowing that this is his fault. 
+Panic runs rampant in the cave, seta knowing that this is his fault.  Bows solemly apologising profusely and decides to hand himself in.
+Seta runs away despite the beast kinds pleas, his slave master simply grins at him and when they reunite seta can hear in the distance fire cackling.
+
+He rushes back, not even being chased, and sees the cave lit up he evacuates several beastkind but in the midst of the spook he sees a spellbook touches it and everything goes black
+
+Finish this
+
+
+Talk about setas girl crush
 
 
 

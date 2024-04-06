@@ -24,4 +24,15 @@
 
 - _On my way to CIA headquarters to pick up my free watch (I found out I made it onto their watch list)_
 
+> Fake your death
+
+> Forge new documents
+
+> Get plastic surgery
+
+> Start your new life in Europe
+
+> Repeat every time you get in debt.
+
+
 <img src=".pix/mom_text.webp" style="width: 200px; height: auto;">

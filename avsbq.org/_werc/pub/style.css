@@ -1,0 +1,26 @@
+html { background-color: #ddedff; }
+blockquote { color: #555555; border-left: 0.3em solid lightgray; padding-left: 1.5em; margin-left: inherit; }
+img { display: block; max-width: 100%; object-fit: contain; margin-left: auto; margin-right: auto; }
+body > nav { padding-right: initial !important; min-width: 0 !important; }
+
+article { font-family: serif; font-size: 1em; color: black; text-align: justify; border: 0.15em solid black; padding: 0.5em 2em; background-color: white; flex-basis: 40em; margin-left: auto; margin-right: auto; }
+article > h1 { font-size: 220%; }
+article > h2 { font-size: 165%; }
+article > h3 { font-size: 137.5%; }
+article > h4 { font-size: 110%; }
+article > h5 { font-size: 96.25%; }
+article > h6 { font-size: 93.5%; }
+article pre, article code, article table { overflow: scroll; }
+
+/* f(x) = 1/(x*0.14 + 0.31) ; h1, h2, etc. = f(1), f(2), etc. */
+/*
+ * article p, article li, article td { font-size: 1.04em; }
+ * article h1 { font-size: 2.22em; }
+ * article h2 { font-size: 1.70em; }
+ * article h3 { font-size: 1.37em; }
+ * article h4 { font-size: 1.15em; }
+ * article h5 { font-size: 0.99em; }
+ * article h6 { font-size: 0.87em; }
+ * */
+
+

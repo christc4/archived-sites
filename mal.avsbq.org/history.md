@@ -13,3 +13,4 @@ It's possible that a doctor of that time may have even told an axious mother abo
 <img src=".pix/ot.webp" style="width: 180px; height: auto;">
 
 <img src=".pix/heiro.webp" style="width: 300px; height: auto;">
+<img src=".pix/eminem_hitler.webp" style="width: 300px; height: auto;">

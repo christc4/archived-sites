@@ -28,3 +28,9 @@ We do not know if we are on Heaven or Earth
 
 
 - Tourist at monk's cell: <i>&ldquo;Where is your furniture?&rdquo;</i> Monk: <i>&ldquo;Where is yours?&rdquo;</i> Tourist: <i>&ldquo;Mine? I'm only a tourist here&rdquo;</i> Monk: <i>&ldquo;And so am I&rdquo;
+
+
+- Food is not evil, but gluttony is. Childbearing is not evil, but fornication is. Money is not evil, but avarice is. Glory is not evil, but vainglory is. Indeed, there is no evil in existing things, but only in their misuse
+
+- Our home is in Heaven. Please remember that we were created for Heaven. Our whole life is just a continuous wondering on the way home
+

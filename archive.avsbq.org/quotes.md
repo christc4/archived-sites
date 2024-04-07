@@ -2,23 +2,19 @@
 
 Names intentionally redacted
 
-- If it comes as a gift from one's beloved even a pebble from the roadside will outshine any gem
+<!-- If it comes as a gift from one's beloved even a pebble from the roadside will outshine any gem -->
 
-- The road to hell is paved with people with good intentions
+> The road to hell is paved with people with good intentions
 
-- The gates of hell are locked from the inside
+> The gates of hell are locked from the inside
 
-- The world gets wider and wider and even the view I saw yesterday looks different to me today
+<!-- The world gets wider and wider and even the view I saw yesterday looks different to me today -->
 
--  Necessity is the mother of all invention
-
-- Food is not evil, but gluttony is. Childbearing is not evil, but fornication is. Money is not evil, but avarice is. Glory is not evil, but vainglory is. Indeed, there is no evil in existing things, but only in their misuse
+>  Necessity is the mother of all invention
 
 - Give them bread and circuses and they will never revolt
 
 - One of my most productive days was throwing away 1000 lines of code
-
-- Our home is in Heaven. Please remember that we were created for Heaven. Our whole life is just a continuous wondering on the way home
 
 - The moment I started working at the bank, I immediately knew this. My friend put it best: We're not even the cogs in the machine. We're the grease. 
 
